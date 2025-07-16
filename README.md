@@ -65,3 +65,6 @@ Following these steps will help ensure a successful bot operation with minimized
 https://etherscan.io/address/0x4838b106fce9647bdf1e7877bf73ce8b0bad5f97
 
 Happy trading! 🚀
+
+💬 Contact me on Telegram with any questions! https://t.me/HudsonWeb3
+
